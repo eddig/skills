@@ -60,6 +60,10 @@ Create issues in dependency order (blockers first) so you can reference real iss
 
 #<prd-issue-number>
 
+## Type
+
+HITL / AFK (pick one — HITL = requires human decision before merging, AFK = can be implemented and merged autonomously)
+
 ## What to build
 
 A concise description of this vertical slice. Describe the end-to-end behavior, not layer-by-layer implementation. Reference specific sections of the parent PRD rather than duplicating content.
